@@ -1,0 +1,9 @@
+Burpee Sayısı:50
+Pushup Sayısı:45
+Situp Sayısı:40
+Squat Sayısı:30
+Hareket türü:Burpee Sayısı:45
+Hareket türü:Burpee Sayısı:5
+Hareket türü:Pushup Sayısı:50
+Hareket türü:Situp Sayısı:45
+Hareket türü:Squat Sayısı:50

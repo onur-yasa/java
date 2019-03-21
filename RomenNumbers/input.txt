@@ -1,0 +1,11 @@
+apple is I
+orange is V
+carrot is XII
+tomato is L
+apple apple potato is 17
+potato carrot strawberry is 102
+orange strawberry peach is 3800
+what is the price of tomato potato strawberry?
+what is the price of peach apple carrot?
+what is the price of tomato peach apple carrot?
+what is the price of orange potato cheese?
